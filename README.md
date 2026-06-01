@@ -22,4 +22,9 @@ CUPP Style Wordlist Generator is a professional password profiling tool that gen
 - **Large Output** - Generates thousands of targeted passwords
 
 ---
-Processing |████████████████████████████| 100.0% 15000/15000 | 
+```bash
+Generating |████████████████████████████| 100.0% 1250/1250
+Processing |████████████████████████████| 100.0% 15000/15000
+Leet       |████████████████████████████| 100.0% 8500/8500
+Saving     |████████████████████████████| 100.0% 23500/23500
+```
